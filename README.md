@@ -5,3 +5,5 @@ branch で以下をしてみる
   pull
   merge
   delete
+
+むずかしい
