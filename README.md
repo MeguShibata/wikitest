@@ -7,3 +7,5 @@ branch で以下をしてみる
   delete
 
 むずかしい
+
+こっちが branch らしい
