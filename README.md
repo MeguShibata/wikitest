@@ -13,3 +13,5 @@ branch で以下をしてみる
 これを push する?
 
 さらにむずかしい
+
+pull request
